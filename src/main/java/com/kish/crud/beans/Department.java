@@ -13,6 +13,7 @@ public class Department {
 		super();
 		this.deptId = deptId;
 		this.deptName = deptName;
+		//test git branch
 	}
 
 	public Integer getDeptId() {
