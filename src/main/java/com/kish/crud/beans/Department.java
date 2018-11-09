@@ -13,7 +13,6 @@ public class Department {
 		super();
 		this.deptId = deptId;
 		this.deptName = deptName;
-		System.out.println("right...");
 	}
 
 	public Integer getDeptId() {
